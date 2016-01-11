@@ -3,4 +3,4 @@ Test Git Demo-1
 -Adding change 1
  (Subchange after change 1.)
  
-- Change from master 
+- Changes from master 
