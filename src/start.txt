@@ -1,6 +1,6 @@
 Test Git Demo-1
 
--Adding change 1
+-Adding change 1 --- from changes master
  (Subchange after change 1.)
  
 - Changes from master 
